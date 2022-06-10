@@ -1,0 +1,12 @@
+modules
+**********************
+
+Admin
+-----------------------------------------
+1. auth 	=> admin/vendor *
+2. roles 	=> admin/vendor *
+3. crud 	=> vendors / change to vendors dashboard *
+
+Vendors
+-----------------------------------------
+4. Contact 	   => contact form to admin email with a file & little text *
